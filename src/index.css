@@ -21,7 +21,8 @@ nav{
 }
 nav ul {
   padding: 0;
-  background-color: plum;
+  background-color:rgb(170, 29, 170);
+  color: white;
 
 }
 nav ul li {
