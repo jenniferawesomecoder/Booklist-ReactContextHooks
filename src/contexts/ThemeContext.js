@@ -21,4 +21,3 @@ class ThemeContextProvider extends Component {
 }
  
 export default ThemeContextProvider;
-© 2020 GitHub, Inc.
